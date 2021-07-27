@@ -1,5 +1,5 @@
 # Cache Job  
-The end result of trying to build a MVP for entrylevelsoftwarejobs.com in 100 minutes.
+
 
 A job board app that presents jobs from different websites like LinkedIn, Stackoverflow, Indeed, Github etc., with a simple filtering algorithm. 
 Uses REACT for frontend, 
